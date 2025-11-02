@@ -1,0 +1,21 @@
+{
+  "short_name": "Sopa de Letras",
+  "name": "Sopa de Letras PT",
+  "description": "Um jogo de sopa de letras simples e divertido em português, desenhado com letras grandes para fácil leitura.",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#f1f5f9"
+}

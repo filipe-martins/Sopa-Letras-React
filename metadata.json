@@ -1,0 +1,5 @@
+{
+  "name": "Sopa de Letras PT",
+  "description": "Um jogo de sopa de letras simples e divertido em português, desenhado com letras grandes para fácil leitura. Encontre as palavras escondidas na grelha na horizontal, vertical ou diagonal.",
+  "requestFramePermissions": []
+}
